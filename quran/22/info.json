@@ -1,5 +1,9 @@
 {
   "index": 22,
   "name": "الحج",
-  "name_en": ""
+  "name_en": "Al-Hajj",
+  "name_english": "The Pilgrimage",
+  "type": "Medinan",
+  "ayas": 78,
+  "rukus": 10
 }

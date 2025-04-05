@@ -1,5 +1,9 @@
 {
   "index": 65,
   "name": "الطلاق",
-  "name_en": ""
+  "name_en": "At-Talaaq",
+  "name_english": "Divorce",
+  "type": "Medinan",
+  "ayas": 12,
+  "rukus": 2
 }

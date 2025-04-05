@@ -1,5 +1,9 @@
 {
   "index": 30,
   "name": "الروم",
-  "name_en": ""
+  "name_en": "Ar-Room",
+  "name_english": "The Romans",
+  "type": "Meccan",
+  "ayas": 60,
+  "rukus": 6
 }

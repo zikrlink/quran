@@ -1,5 +1,9 @@
 {
   "index": 90,
   "name": "البلد",
-  "name_en": ""
+  "name_en": "Al-Balad",
+  "name_english": "The City",
+  "type": "Meccan",
+  "ayas": 20,
+  "rukus": 1
 }
