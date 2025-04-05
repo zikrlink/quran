@@ -7,15 +7,15 @@ const metadata = JSON.parse(fs.readFileSync('quran-metadata.json', 'utf8'));
 // Ambil data sura
 const suras = metadata.quran.suras.sura;
 
-// Buat folder quran jika belum ada
-if (!fs.existsSync('quran')) {
-    fs.mkdirSync('quran');
+// Buat folder src jika belum ada
+if (!fs.existsSync('src')) {
+    fs.mkdirSync('src');
 }
 
 // Proses setiap sura
 suras.forEach(sura => {
     const suraIndex = sura._index;
-    const suraFolder = path.join('quran', suraIndex);
+    const suraFolder = path.join('src', suraIndex);
     
     // Buat folder sura jika belum ada
     if (!fs.existsSync(suraFolder)) {
