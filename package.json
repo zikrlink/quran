@@ -1,0 +1,12 @@
+{
+  "name": "quran-converter",
+  "version": "1.0.0",
+  "description": "Converter untuk mengubah Quran XML ke JSON",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+} 
